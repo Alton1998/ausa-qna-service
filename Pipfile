@@ -6,8 +6,14 @@ name = "pypi"
 [packages]
 langchain = "*"
 openai = "*"
-streamlit = "*"
 python-dotenv = "*"
+pypdf = "*"
+pymongo = "*"
+langchain-openai = "*"
+tiktoken = "*"
+langchain-community = "*"
+gpt4all = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
